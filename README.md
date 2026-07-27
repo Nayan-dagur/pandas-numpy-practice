@@ -1,6 +1,6 @@
 # pandas-numpy-practice
 This repository contains my hands-on practice while learning NumPy, Pandas, and the foundations of Machine Learning.
-Instead of only following tutorials, I wanted to strengthen my confidence in analysing and manipulating real-world datasets. To do that, I solved a series of questions covering data exploration, cleaning, aggregation, feature engineering, and statistical analysis.
+Instead of only following tutorials, I wanted to strengthen my confidence in analysing and manipulating real-world datasets. To do that, I solved a series of questions covering data exploration, cleaning, aggregation and statistical analysis.
 
 The notebook reflects my learning process and focuses on understanding concepts rather than memorising syntax.
 
