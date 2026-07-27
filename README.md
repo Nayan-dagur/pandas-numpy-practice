@@ -10,7 +10,7 @@ The notebook reflects my learning process and focuses on understanding concepts 
 * NumPy
 * Pandas
   
-* 🎯 Purpose
+🎯 Purpose
 
 The goal of this notebook was not to complete another tutorial, but to become comfortable asking questions from data and solving them using NumPy and Pandas.
 
