@@ -9,6 +9,20 @@ The notebook reflects my learning process and focuses on understanding concepts 
 * Python
 * NumPy
 * Pandas
+
+ 📂 Topics Covered
+
+* Data Selection & Filtering
+* Boolean Indexing
+* Sorting 
+* Missing Value Handling
+* GroupBy & Aggregation
+* String Operations
+* Exploding List Columns
+* Feature Engineering
+* NumPy Statistics
+* Normalization
+* Data Manipulation
   
 🎯 Purpose
 
