@@ -27,7 +27,7 @@ I’ll continue expanding this repository as I learn:
 * Model Evaluation
 * Scikit-learn Pipelines
 * End-to-End ML Projects
-
-* 🤝 Feedback
+  
+ 🤝 Feedback
 
 If you notice a better or more efficient pandas/NumPy solution, I’d love to learn from it. Feel free to open an issue or submit a pull request.
